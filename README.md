@@ -1,7 +1,7 @@
 # fejs
 This is the skeleton of my JS "framework" I use to build SPA.
 
-It contains nice things as a convenient XHR functions with callbacks, routing, a basic HTML skeleton and an error handler.
+It contains nice things as a convenient XHR function with callbacks, routing, a basic HTML skeleton and an error handler.
 
 
 ## Pages
