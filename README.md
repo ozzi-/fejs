@@ -32,7 +32,8 @@ Whereas params is an optional array for the callback (Note: first parameter for 
 <div id="employees"></div>
 ```
 and
-```doRequest("GET", "fakeapi/employees.json", listEmployees);
+```
+doRequest("GET", "fakeapi/employees.json", listEmployees);
 ```
 Equals:
 ![screenshot employees](https://i.imgur.com/AvrfeUn.png)
